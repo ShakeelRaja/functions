@@ -106,5 +106,12 @@ Virtually every programming language has functions , a way of separating out a b
 
 [Lab: Arguments to a Python function](http://github.com/learn-co-curriculum/function-arguments-lab)
 
+### Coding Lab: Creating a simple calculator
+This lab will allow you to combine the programming skills and ideas that you have gathered upto this point including iterations, conditionals, datatypes, user I/O and functions. [Click here]() to access the lab. 
+
+### Summary and Conclusion: 
+In this lesson we saw how functions can be used as an effective method to re-use code repeatedly by passing different parameters under same processing logic. We learnt how to create new functions, call them from main program body ( or other functions), pass on values as parameters to the functions. We also looked at scoping variables for defining variables at global and local level and discussed the applications of this feature. The lesson concluded by asking students to develop a simple calculator in Python by combining all the coding skills that students have learnt upto this point in their course. 
+
+
 
 
