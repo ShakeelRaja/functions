@@ -4,7 +4,7 @@
 * Understand the use case for functions in programming (abstraction and reuse)
 * Create and use functions in Python
 
-## Functions 
+### Functions 
 
 http://introtopython.org/introducing_functions.html
 https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/Functions
@@ -16,7 +16,7 @@ A function is a block of organized, reusable code that is used to perform a sing
 As you have already seen, Python gives you many built-in functions like print(), etc. but you can also create your own functions. These functions are called user-defined functions.
 
 
-## Defining a Function
+### Defining a Function
 
 You can define functions to provide the required functionality. Here are simple rules to define a function in Python.
 
@@ -32,7 +32,7 @@ You can define functions to provide the required functionality. Here are simple 
 
 * The statement `return [some expression]` exits a function, optionally passing back an expression to the caller. A return statement with no arguments is written as `return None`.
 
-## Syntax of a Function
+### Syntax of a Function
 
 A common syntax of a function in python may look like this:
 
@@ -76,7 +76,7 @@ Second call to the same function
 
 [Lab: Decraling and Using Functions ](https://github.com/learn-co-curriculum/introduction-to-functions-lab
 )
-## Scope of Variables:
+### Scope of Variables:
 
 https://matthew-brett.github.io/teaching/global_scope.html
 https://www.python-course.eu/python3_global_vs_local_variables.php
