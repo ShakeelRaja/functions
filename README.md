@@ -3,10 +3,14 @@
 ## SWABT
 * Understand the use case for functions in programming (abstraction and reuse)
 * Create and use functions in Python
+* Demonstrate a clear understanding of variable scope by defining local and global variables
+* Pass arguments to user-defined functions in order to re-use function code repeatedly 
+
 
 ### Functions 
 
 http://introtopython.org/introducing_functions.html
+
 https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/Functions
 
 A function is a block of organized, reusable code that is used to perform a single, related action. Functions provide better modularity for your application and a high degree of code reusing.
@@ -79,6 +83,7 @@ Second call to the same function
 ### Scope of Variables:
 
 https://matthew-brett.github.io/teaching/global_scope.html
+
 https://www.python-course.eu/python3_global_vs_local_variables.php
 
 Scope refers to the visibility of variables. In other words, which parts of your program can see or use it. Normally, every variable has a global scope. Once defined, every part of your program can access a variable.
@@ -92,6 +97,7 @@ Just to make things clear: Variables don't have to be and can't be declared in t
 ### Function Arguments:
 
 https://www.pythoncentral.io/fun-with-python-function-parameters/
+
 https://www.programiz.com/python-programming/function-argument
 
 Virtually every programming language has functions , a way of separating out a block of code that can be called many times from different places in your program, and a way to pass parameters into them. Python is no different, so we'll quickly run over the standard stuff that most languages have, then take a look at some of the cool stuff Python has to offer.
