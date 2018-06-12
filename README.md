@@ -9,9 +9,6 @@
 
 ### Functions 
 
-http://introtopython.org/introducing_functions.html
-
-https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/Functions
 
 A function is a block of organized, reusable code that is used to perform a single, related action. Functions provide better modularity for your application and a high degree of code reusing.
 
@@ -23,8 +20,6 @@ As you have already seen, Python gives you many built-in functions like print(),
 ### Defining a Function
 
 You can define functions to provide the required functionality. Here are simple rules to define a function in Python.
-
-![](https://i0.wp.com/getmoreabout.com/wp-content/uploads/2017/12/1523299_orig-e1514470882262.png?fit=400%2C209&ssl=1)
 
 * Function blocks begin with the keyword `def` followed by the function name and parentheses ( ( ) ).
 
@@ -82,9 +77,6 @@ Second call to the same function
 )
 ### Scope of Variables:
 
-https://matthew-brett.github.io/teaching/global_scope.html
-
-https://www.python-course.eu/python3_global_vs_local_variables.php
 
 Scope refers to the visibility of variables. In other words, which parts of your program can see or use it. Normally, every variable has a global scope. Once defined, every part of your program can access a variable.
 
@@ -96,9 +88,6 @@ Just to make things clear: Variables don't have to be and can't be declared in t
 
 ### Function Arguments:
 
-https://www.pythoncentral.io/fun-with-python-function-parameters/
-
-https://www.programiz.com/python-programming/function-argument
 
 Virtually every programming language has functions , a way of separating out a block of code that can be called many times from different places in your program, and a way to pass parameters into them. Python is no different, so we'll quickly run over the standard stuff that most languages have, then take a look at some of the cool stuff Python has to offer.
 
@@ -112,6 +101,16 @@ This lab will allow you to combine the programming skills and ideas that you hav
 ### Summary and Conclusion: 
 In this lesson we saw how functions can be used as an effective method to re-use code repeatedly by passing different parameters under same processing logic. We learnt how to create new functions, call them from main program body ( or other functions), pass on values as parameters to the functions. We also looked at scoping variables for defining variables at global and local level and discussed the applications of this feature. The lesson concluded by asking students to develop a simple calculator in Python by combining all the coding skills that students have learnt upto this point in their course. 
 
+### Useful Links 
 
+http://introtopython.org/introducing_functions.html
 
+https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial/Functions
 
+https://matthew-brett.github.io/teaching/global_scope.html
+
+https://www.python-course.eu/python3_global_vs_local_variables.php
+
+https://www.pythoncentral.io/fun-with-python-function-parameters/
+
+https://www.programiz.com/python-programming/function-argument
