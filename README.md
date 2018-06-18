@@ -7,7 +7,7 @@
 * Pass arguments to user-defined functions in order to re-use function code repeatedly 
 
 
-### Functions 
+### Functions - 10 min
 
 
 A function is a block of organized, reusable code that is used to perform a single, related action. Functions provide better modularity for your application and a high degree of code reusing.
@@ -16,8 +16,9 @@ A function is a block of organized, reusable code that is used to perform a sing
 
 As you have already seen, Python gives you many built-in functions like print(), etc. but you can also create your own functions. These functions are called user-defined functions.
 
+## Introduction to functions in Python - 30 mins
 
-### Defining a Function
+### Defining a Function 
 
 You can define functions to provide the required functionality. Here are simple rules to define a function in Python.
 
@@ -31,7 +32,7 @@ You can define functions to provide the required functionality. Here are simple 
 
 * The statement `return [some expression]` exits a function, optionally passing back an expression to the caller. A return statement with no arguments is written as `return None`.
 
-### Syntax of a Function
+### Syntax of a Function 
 
 A common syntax of a function in python may look like this:
 
@@ -71,10 +72,10 @@ Above code will print
 Calling the user defined function!
 Second call to the same function
 ```
-[Lesson: Declaring and Using functions](https://github.com/learn-co-curriculum/python-defining-functions-readme)
+[Lesson: Declaring and Using functions](https://github.com/learn-co-curriculum/python-defining-functions-readme) - 20 min
 
-[Lab: Decraling and Using Functions ](https://github.com/learn-co-curriculum/introduction-to-functions-lab
-)
+[Lab: Decraling and Using Functions ](https://github.com/learn-co-curriculum/introduction-to-functions-lab) - 25 min
+
 ### Scope of Variables:
 
 
@@ -82,7 +83,7 @@ Scope refers to the visibility of variables. In other words, which parts of your
 
 It is very useful to be able to limit a variable's scope to a single function. In other words, the variable wil have a limited scope. This way, changes inside the function can't affect the main program in unexpected ways
 
-[Lesson: Scope of a variable](https://github.com/learn-co-curriculum/python-scope-readme)
+[Lesson: Scope of a variable](https://github.com/learn-co-curriculum/python-scope-readme) - 20 min
 
 Just to make things clear: Variables don't have to be and can't be declared in the way they are declared in programming languages like Java or C. Variables in Python are implicitly declared by defining them, i.e. the first time you assign a value to a variable, this variable is declared and has automatically the data type of the object which has to be assigned to it. If you have problems understanding this, please consult our chapter about data types and variables, see links on the left side.
 
@@ -91,14 +92,14 @@ Just to make things clear: Variables don't have to be and can't be declared in t
 
 Virtually every programming language has functions , a way of separating out a block of code that can be called many times from different places in your program, and a way to pass parameters into them. Python is no different, so we'll quickly run over the standard stuff that most languages have, then take a look at some of the cool stuff Python has to offer.
 
-[Lesson: Arguments to a Python function](https://github.com/learn-co-curriculum/function-arguments-readme)
+[Lesson: Arguments to a Python function](https://github.com/learn-co-curriculum/function-arguments-readme) - 20 min
 
-[Lab: Arguments to a Python function](http://github.com/learn-co-curriculum/function-arguments-lab)
+[Lab: Arguments to a Python function](http://github.com/learn-co-curriculum/function-arguments-lab) - 25 min
 
-### Coding Lab: Creating a simple calculator
-This lab will allow you to combine the programming skills and ideas that you have gathered upto this point including iterations, conditionals, datatypes, user I/O and functions. [Click here]() to access the lab. 
+### Coding Lab: Creating a simple calculator - 30 min
+This lab will allow you to combine the programming skills and ideas that you have gathered upto this point including iterations, conditionals, datatypes, user I/O and functions. [Click here](https://github.com/learn-co-curriculum/ds-python-functions-lab2 to access the lab. 
 
-### Summary and Conclusion: 
+### Summary and Conclusion: - 10 min
 In this lesson we saw how functions can be used as an effective method to re-use code repeatedly by passing different parameters under same processing logic. We learnt how to create new functions, call them from main program body ( or other functions), pass on values as parameters to the functions. We also looked at scoping variables for defining variables at global and local level and discussed the applications of this feature. The lesson concluded by asking students to develop a simple calculator in Python by combining all the coding skills that students have learnt upto this point in their course. 
 
 ### Useful Links 
